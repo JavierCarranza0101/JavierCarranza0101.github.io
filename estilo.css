@@ -10,10 +10,10 @@ header{ background-image: url(imagenes/muni.jpg)  ; background-position: center;
     border-color: #36c3fe;}
 textarea{width: 70%;height: 100px;}
 .titulo{font-size: 5.5vw;text-shadow: 1px 1px 10px #7c7b7b;}
-.formu1{margin-top: 10px;border-color: #36c3fe;border-width: 2px;}
+.formu1{margin-top: 10px;border-color: #36c3fe;border-width: 2px;border-radius: 5px;}
 .cajaproyecto{margin:auto ;width: 60%;border-style: solid;
     margin-top: 2em;margin-bottom: 2em;
-    border-color: #36c3fe;border-width: 2px;}
+    border-color: #36c3fe;border-width: 2px;border-radius: 5px;}
 
     ul { list-style-type: none;
      margin: 0;
@@ -47,15 +47,16 @@ div{float: right;}
     font-size: 20px;
     color: #ffffff;
     background-color: #36c3fe;
-    border-radius: 20px;
+    border-radius: 25px;
     border: 2px solid #36c3fe;
+    margin: 4px;
   }
   .boton1:hover{
-    color: #1883ba;
+    color:  #36c3fe ;
     background-color: #ffffff;
   }
 
   .boton1:hover{
-    color: #1883ba;
+    color: #36c3fe;
     background-color: #ffffff;
   }
