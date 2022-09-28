@@ -7,7 +7,7 @@ header{ background-image: url(imagenes/muni.jpg)  ; background-position: center;
     margin: 0; 
     border-style: solid;
     border-width: 0px 0px 1px;
-    border-color:hsl(198, 100%, 36%);  }
+    border-color: #36c3fe;}
 textarea{width: 70%;height: 100px;}
 .titulo{font-size: 5.5vw;text-shadow: 1px 1px 10px #7c7b7b;}
 .formu1{margin-top: 10px;border-color: #36c3fe;border-width: 2px;}
@@ -38,6 +38,24 @@ a{color:white;padding: 8px;}
 
 footer{padding-top: 4em;color: #36c3fe;}
 
-.boton1{margin: 0.7em;}
-
 div{float: right;}
+
+.boton1{
+    text-decoration: none;
+    padding: 8px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #ffffff;
+    background-color: #36c3fe;
+    border-radius: 20px;
+    border: 2px solid #36c3fe;
+  }
+  .boton_personalizado:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+  }
+
+  .boton1:hover{
+    color: #1883ba;
+    background-color: #ffffff;
+  }
