@@ -1,0 +1,43 @@
+body{color: rgb(0, 0, 0);
+    text-align: center;font-family: 'Open Sans',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+     margin: auto;}
+header{ background-image: url(imagenes/muni.jpg)  ; background-position: center;background-repeat: no-repeat;background-size: cover;
+    padding: 1px   ;
+    color: white; 
+    margin: 0; 
+    border-style: solid;
+    border-width: 0px 0px 1px;
+    border-color:hsl(198, 100%, 36%);  }
+textarea{width: 70%;height: 100px;}
+.titulo{font-size: 5.5vw;text-shadow: 1px 1px 10px #7c7b7b;}
+.formu1{margin-top: 10px;border-color: #36c3fe;border-width: 2px;}
+.cajaproyecto{margin:auto ;width: 60%;border-style: solid;
+    margin-top: 2em;margin-bottom: 2em;
+    border-color: #36c3fe;border-width: 2px;}
+
+    ul { list-style-type: none;
+     margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(217, 217, 217);}
+                
+li { display: inline;
+    list-style-type: none;
+    color: white;
+      text-align: center;
+     padding: 16px 0px;
+      text-decoration: none;
+    font-size: 2vw; }
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+                }
+li a:hover {
+    background-color: #36c3fe;  }
+a{color:white;padding: 8px;}
+
+footer{padding-top: 4em;color: #36c3fe;}
+
+.boton1{margin: 0.7em;}
+
+div{float: right;}
