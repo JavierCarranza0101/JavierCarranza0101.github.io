@@ -19,7 +19,7 @@ textarea{width: 70%;height: 100px;}
      margin: 0;
     padding: 5px;
     overflow: hidden;
-    background-color: #dcdcdc;}
+    background-color: #dcdcdc;font-weight: 600;}
                 
 li { display: inline;
     list-style-type: none;
