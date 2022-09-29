@@ -36,8 +36,6 @@ li a:hover {
     background-color: #36c3fe; color: #ffffff; }
 a{color: slategrey	;padding: 10px; }
 
-footer{padding-top: 4em;color: #36c3fe;}
-
 div{float: right;}
 
 .boton1{
@@ -68,3 +66,5 @@ div{float: right;}
 
 .formpass2{font-size: 1.3vw;}
 
+footer{padding-top: 4em;color: #36c3fe;}
+.linkfooter{color: #36c3fe;}
