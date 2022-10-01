@@ -104,12 +104,12 @@ footer{padding-top: 4em;color: #36c3fe;}
     list-style-type: none;
     color: rgb(194, 194, 194);
       text-align: center;
-     padding: 8px ;
+     padding: 12px ;
       text-decoration: none;
-    font-size: 3.5vw;
-    
+    font-size: 3.5vw;   
     
    }
+   ul{padding: 0px; }
   
     .formpass1{border-radius: 25px;border-color: #dcdcdc;font-size: 2.4vw;border: #36c3fe solid 1px ;}
     .formpass2{font-size: 2.3vw;}
@@ -120,4 +120,4 @@ footer{padding-top: 4em;color: #36c3fe;}
     
     li a:hover {
       background-color: #36c3fe; color: #ffffff;border-radius: 30px; }
-  a{color: slategrey	;padding: 10px; border-radius: 25px;}
+  a{color: slategrey	;padding: 10px; border-radius: 25px; }
