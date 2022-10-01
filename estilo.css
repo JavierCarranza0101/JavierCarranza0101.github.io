@@ -36,7 +36,8 @@ li a:hover {
     background-color: #36c3fe; color: #ffffff; }
 a{color: slategrey	;padding: 10px; }
 
-div{float: right;}
+
+
 
 .boton1{
     text-decoration: none;
@@ -68,6 +69,13 @@ div{float: right;}
 
 footer{padding-top: 4em;color: #36c3fe;}
 .linkfooter{color: #36c3fe;}
+
+.logginuser{color: rgb(255, 255, 255); 
+  font-weight: 600;
+  background-color: #36c3fe;
+  border-radius: 0px;
+    border: solid 1px #2b9dcd ;
+}
 
 
 
@@ -113,6 +121,8 @@ footer{padding-top: 4em;color: #36c3fe;}
   
     .formpass1{border-radius: 25px;border-color: #dcdcdc;font-size: 2.4vw;border: #36c3fe solid 1px ;}
     .formpass2{font-size: 2.3vw;}
+
+    
     .cajaproyecto{margin:auto ;width: 90%;border-style: solid;
       margin-top: 2em;margin-bottom: 2em;
       border-color: #36c3fe;border-width: 2px;border-radius: 5px;padding: 10px;}
@@ -121,3 +131,10 @@ footer{padding-top: 4em;color: #36c3fe;}
     li a:hover {
       background-color: #36c3fe; color: #ffffff;border-radius: 30px; }
   a{color: slategrey	;padding: 10px; border-radius: 25px; }
+
+  .logginuser{color: rgb(255, 255, 255); 
+    font-weight: 600;
+    background-color: #36c3fe;
+    border-radius: 0px;
+    border: solid 1px #2b9dcd ;
+  }
