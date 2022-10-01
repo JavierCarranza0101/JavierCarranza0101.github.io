@@ -90,3 +90,27 @@ footer{padding-top: 4em;color: #36c3fe;}
 ::-webkit-scrollbar-thumb:hover {
   background: #36c3fe; 
 }
+
+
+@media only screen and (max-width: 500px) {
+  body {
+    background-color: rgb(255, 255, 255);
+    
+    
+  }
+  .titulo{font-size: 8vw;text-shadow: 0px 0px 13px #000000;}
+  div{float: none;}
+  li { display: block;
+    list-style-type: none;
+    color: rgb(194, 194, 194);
+      text-align: center;
+     padding: 8px 0px;
+      text-decoration: none;
+    font-size: 3.5vw; }
+  
+    .formpass1{border-radius: 25px;border-color: #dcdcdc;font-size: 2.4vw;border: #36c3fe solid 1px ;}
+    .formpass2{font-size: 2.3vw;}
+    .cajaproyecto{margin:auto ;width: 90%;border-style: solid;
+      margin-top: 2em;margin-bottom: 2em;
+      border-color: #36c3fe;border-width: 2px;border-radius: 5px;padding: 10px;}
+    textarea{width: 90%;}
