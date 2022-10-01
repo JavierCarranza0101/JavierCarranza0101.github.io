@@ -50,3 +50,17 @@ body{background-color: #36c3fe;
     color: #36c3fe;
     background-color: #ffffff;
   }
+
+
+
+  @media only screen and (max-width: 500px) {
+    .cajalogin{width: 85%;}
+
+
+
+
+
+
+
+  }
+   
